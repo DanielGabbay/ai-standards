@@ -1,0 +1,5 @@
+{
+  "targets": ["cursor", "claudecode", "copilot"],
+  "features": ["rules", "skills", "subagents", "commands", "hooks"],
+  "baseDirs": ["."]
+}
